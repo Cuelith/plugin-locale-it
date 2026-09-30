@@ -8,6 +8,7 @@
   "license": "Apache-2.0",
   "repository": "https://github.com/Cuelith/plugin-locale-it",
   "family": "locale",
+  "icon": "icon.svg",
   "engines": { "cuelith": "^0.1.0", "protocol": "^1.0.0" },
   "runtime": { "type": "none" },
   "permissions": [],
