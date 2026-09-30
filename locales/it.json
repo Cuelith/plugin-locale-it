@@ -144,7 +144,7 @@
   "core.program.next": "Avanti",
   "core.program.clear": "Pulisci",
   "core.program.position": "{title} · {n} di {count}",
-  "core.program.keys": "→ o Spazio avanti · ← indietro · Invio manda in onda · Esc pulisci",
+  "core.program.keys": "→ o Spazio avanti · ← indietro · Invio manda in onda · Esc pulisci · V C P B I E: strofa, ritornello, pre-ritornello, bridge, intro, finale",
   "core.preview.take": "Manda in onda",
   "core.editor.newTitle": "Nuovo testo",
   "core.editor.editTitle": "Modifica testo",
@@ -415,5 +415,8 @@
   "core.error.moduleBundled": "Questo modulo è incluso in Cuelith: si può spegnere ma non disinstallare.",
   "core.error.modulePathInvalid": "Scegli un pacchetto .cpkg o una cartella di un modulo.",
   "protocol.registry.sha256Invalid": "Impronta SHA-256 non valida.",
-  "protocol.registry.duplicateId": "Modulo ripetuto nel registry."
+  "protocol.registry.duplicateId": "Modulo ripetuto nel registry.",
+  "core.error.editorUnavailable": "Per modificare questo elemento serve il suo modulo attivo.",
+  "core.error.panelNotFound": "Il pannello richiesto dal modulo non esiste.",
+  "core.file.saveTitleGeneric": "Salva il file"
 }
