@@ -216,5 +216,17 @@
   "core.error.showUnreadable": "Il file non è uno show di Cuelith leggibile.",
   "core.error.showInvalid": "Il file dello show è danneggiato o incompleto.",
   "core.error.showTooNew": "Questo show è stato creato con una versione più recente di Cuelith: aggiorna Cuelith per aprirlo.",
-  "core.error.showNeedsPlugins": "Per aprire questo show servono i moduli: {plugins}."
+  "core.error.showNeedsPlugins": "Per aprire questo show servono i moduli: {plugins}.",
+  "core.error.titleRequired": "Serve un titolo.",
+  "core.error.libraryNotFound": "La libreria non esiste più.",
+  "core.error.libraryItemNotFound": "L’elemento non è più nell’archivio.",
+  "core.error.mediaMissing": "Un file allegato non è nell’archivio media: importalo di nuovo.",
+  "core.error.mediaUnsupported": "Formato di file non supportato. Immagini: PNG, JPEG, WebP, GIF, SVG. Audio: MP3, WAV, M4A, AAC, FLAC, OGG. Video: MP4, WebM, MOV.",
+  "core.error.mediaNotFound": "Il file non esiste più.",
+  "core.error.mediaTooLarge": "Il file è troppo grande (massimo 4 GB).",
+  "core.error.mediaCopyFailed": "Copia del file nell’archivio non riuscita ({reason}).",
+  "core.error.notFromLibrary": "Questo elemento non viene da una libreria.",
+  "core.error.localOnly": "Si può fare solo dalla postazione sul computer del motore.",
+  "protocol.credits.ccliInvalid": "Il numero CCLI contiene solo cifre.",
+  "protocol.media.idInvalid": "Riferimento a un file dell’archivio non valido."
 }
