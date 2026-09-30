@@ -144,7 +144,7 @@
   "core.program.next": "Avanti",
   "core.program.clear": "Pulisci",
   "core.program.position": "{title} · {n} di {count}",
-  "core.program.keys": "→ o Spazio avanti · ← indietro · Invio manda in onda · Esc pulisci · V C P B I E: strofa, ritornello, pre-ritornello, bridge, intro, finale",
+  "core.program.keys": "→ o Spazio avanti · ← indietro · Invio manda in onda · Esc pulisci · V C P B I E O: strofa, ritornello, pre-ritornello, bridge, intro, finale, altro",
   "core.preview.take": "Manda in onda",
   "core.editor.newTitle": "Nuovo testo",
   "core.editor.editTitle": "Modifica testo",
