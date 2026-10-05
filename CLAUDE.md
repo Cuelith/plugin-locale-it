@@ -6,3 +6,4 @@ Modulo lingua italiana di Cuelith. Fonte di verità: il documento di progetto ne
 - Ogni nuova chiave `core.*` o `protocol.*` introdotta in `cuelith-core` o `cuelith-sdk` va aggiunta qui nello stesso giro di lavoro; il test delle lingue del nucleo lo verifica.
 - Testi per l'operatore: frasi semplici, attive, che dicono cosa succede o cosa fare. Niente gergo tecnico se esiste una parola comune.
 - Lavoro su `dev`; `main` riceve solo release taggate (SemVer).
+- **Licenza GPL 3.0 o successiva** (decisione 0012), come il nucleo. Le versioni già pubblicate restano Apache; il cambio vale dal prossimo rilascio.

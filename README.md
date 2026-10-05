@@ -7,4 +7,4 @@ Lingua italiana per [Cuelith](https://github.com/Cuelith/cuelith-core). In Cueli
 
 Ogni chiave usata dal nucleo (`core.*`) e dal protocollo (`protocol.*`) deve avere qui la sua traduzione: il test delle lingue in `cuelith-core` fallisce se ne manca una.
 
-Licenza Apache 2.0.
+Licenza GPL 3.0 o successiva (vedi [LICENSE](LICENSE)). Le versioni fino alla 0.2.0 sono state pubblicate con licenza Apache 2.0 e restano disponibili con quella licenza.

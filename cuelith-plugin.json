@@ -5,7 +5,7 @@
   "description": "Lingua italiana per il nucleo di Cuelith.",
   "version": "0.2.0",
   "publisher": "Cuelith",
-  "license": "Apache-2.0",
+  "license": "GPL-3.0-or-later",
   "repository": "https://github.com/Cuelith/plugin-locale-it",
   "family": "locale",
   "icon": "icon.svg",
