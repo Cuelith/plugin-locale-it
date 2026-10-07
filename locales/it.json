@@ -386,6 +386,8 @@
   "core.modules.unverifiedHint": "Questo plugin non è stato verificato da Cuelith: installalo solo se ti fidi di chi lo pubblica.",
   "core.modules.install": "Installa",
   "core.modules.installing": "Installazione…",
+  "core.modules.installingLocal": "Installazione in corso… può richiedere qualche secondo",
+  "core.modules.uninstalling": "Disinstallazione in corso…",
   "core.modules.update": "Aggiorna",
   "core.modules.updateTo": "Aggiorna alla {version}",
   "core.modules.installedLabel": "Installato",
