@@ -843,5 +843,15 @@
   "core.editor.format.preview": "Come lo vede il pubblico",
   "protocol.field.spansOutside": "Le parole formattate escono dal testo.",
   "core.error.richTextNoSession": "Nessun testo in modifica a cui applicare la formattazione.",
-  "core.error.richTextNoSelection": "Seleziona prima delle parole."
+  "core.error.richTextNoSelection": "Seleziona prima delle parole.",
+  "core.editor.format.outline": "Bordo",
+  "core.editor.format.none": "Nessuno",
+  "core.editor.format.outline.thin": "Sottile",
+  "core.editor.format.outline.medium": "Medio",
+  "core.editor.format.outline.thick": "Spesso",
+  "core.editor.format.outlineColor": "Colore del bordo",
+  "core.editor.format.shadow": "Ombra",
+  "core.editor.format.shadow.none": "Nessuna",
+  "core.editor.format.shadow.light": "Leggera",
+  "core.editor.format.shadow.strong": "Forte"
 }
