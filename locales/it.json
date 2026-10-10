@@ -829,5 +829,19 @@
   "core.textstyles.vAlign.bottom": "In basso",
   "core.textstyles.sample": "Strade di sera\nluci accese su di noi\nla città respira piano insieme a noi\nogni finestra accesa è una storia in più, e resta ancora un po'",
   "core.textstyles.previewFromSlide": "Anteprima con il testo della slide in anteprima.",
-  "core.textstyles.previewFromSample": "Nessuna slide in anteprima: questo è un testo di prova, con righe corte e lunghe."
+  "core.textstyles.previewFromSample": "Nessuna slide in anteprima: questo è un testo di prova, con righe corte e lunghe.",
+  "core.editor.format.label": "Formattazione delle parole",
+  "core.editor.format.size": "Dimensione",
+  "core.editor.format.sizeNormal": "Normale",
+  "core.editor.format.bold": "Grassetto",
+  "core.editor.format.boldShort": "G",
+  "core.editor.format.italic": "Corsivo",
+  "core.editor.format.italicShort": "C",
+  "core.editor.format.color": "Colore",
+  "core.editor.format.clear": "Togli formattazione",
+  "core.editor.format.hint": "Seleziona delle parole per cambiarne dimensione, grassetto, corsivo o colore.",
+  "core.editor.format.preview": "Come lo vede il pubblico",
+  "protocol.field.spansOutside": "Le parole formattate escono dal testo.",
+  "core.error.richTextNoSession": "Nessun testo in modifica a cui applicare la formattazione.",
+  "core.error.richTextNoSelection": "Seleziona prima delle parole."
 }

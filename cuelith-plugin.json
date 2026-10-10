@@ -3,7 +3,7 @@
   "id": "cuelith.locale.it",
   "name": "Italiano",
   "description": "Lingua italiana per il nucleo di Cuelith.",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "publisher": "Cuelith",
   "license": "GPL-3.0-or-later",
   "repository": "https://github.com/Cuelith/plugin-locale-it",
